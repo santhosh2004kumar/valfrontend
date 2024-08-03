@@ -1,0 +1,479 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1453, 12.9485]
+      },
+      "properties": {
+        "intensity": 18,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1487, 12.9503]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1462, 12.9498]
+      },
+      "properties": {
+        "intensity": 20,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1509, 12.9464]
+      },
+      "properties": {
+        "intensity": 16,
+        "categories": ["Food", "Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1446, 12.9511]
+      },
+      "properties": {
+        "intensity": 14,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1495, 12.952]
+      },
+      "properties": {
+        "intensity": 22,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1532, 12.9489]
+      },
+      "properties": {
+        "intensity": 11,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1469, 12.9467]
+      },
+      "properties": {
+        "intensity": 19,
+        "categories": ["Food", "Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1504, 12.9478]
+      },
+      "properties": {
+        "intensity": 25,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1457, 12.9492]
+      },
+      "properties": {
+        "intensity": 13,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1483, 12.9506]
+      },
+      "properties": {
+        "intensity": 17,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1498, 12.9481]
+      },
+      "properties": {
+        "intensity": 15,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1521, 12.9515]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Food", "Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1465, 12.9528]
+      },
+      "properties": {
+        "intensity": 22,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1491, 12.9507]
+      },
+      "properties": {
+        "intensity": 18,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1474, 12.9457]
+      },
+      "properties": {
+        "intensity": 21,
+        "categories": ["Food", "Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1516, 12.9532]
+      },
+      "properties": {
+        "intensity": 14,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1448, 12.9487]
+      },
+      "properties": {
+        "intensity": 20,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1494, 12.9514]
+      },
+      "properties": {
+        "intensity": 16,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1525, 12.9463]
+      },
+      "properties": {
+        "intensity": 13,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1476, 12.9494]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1497, 12.9522]
+      },
+      "properties": {
+        "intensity": 18,
+        "categories": ["Food", "Supplies"]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1835, 12.9551]
+      },
+      "properties": {
+        "intensity": 15,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1856, 12.9529]
+      },
+      "properties": {
+        "intensity": 10,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1887, 12.9548]
+      },
+      "properties": {
+        "intensity": 20,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1902, 12.9561]
+      },
+      "properties": {
+        "intensity": 17,
+        "categories": ["Food", "Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1864, 12.958]
+      },
+      "properties": {
+        "intensity": 14,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1879, 12.9524]
+      },
+      "properties": {
+        "intensity": 22,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1894, 12.9541]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1915, 12.9576]
+      },
+      "properties": {
+        "intensity": 19,
+        "categories": ["Food", "Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.193, 12.9593]
+      },
+      "properties": {
+        "intensity": 25,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1842, 12.9558]
+      },
+      "properties": {
+        "intensity": 13,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1871, 12.9536]
+      },
+      "properties": {
+        "intensity": 17,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1889, 12.9572]
+      },
+      "properties": {
+        "intensity": 16,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1906, 12.9567]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Food", "Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1852, 12.9544]
+      },
+      "properties": {
+        "intensity": 22,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1878, 12.9559]
+      },
+      "properties": {
+        "intensity": 18,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1896, 12.9521]
+      },
+      "properties": {
+        "intensity": 21,
+        "categories": ["Food", "Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1922, 12.9589]
+      },
+      "properties": {
+        "intensity": 14,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.191, 12.9596]
+      },
+      "properties": {
+        "intensity": 20,
+        "categories": ["Supplies"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1881, 12.9555]
+      },
+      "properties": {
+        "intensity": 13,
+        "categories": ["Food"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.1854, 12.9578]
+      },
+      "properties": {
+        "intensity": 12,
+        "categories": ["Meds"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.19, 12.9543]
+      },
+      "properties": {
+        "intensity": 18,
+        "categories": ["Food", "Supplies"]
+      }
+    }
+  ]
+}
